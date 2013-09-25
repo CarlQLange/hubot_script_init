@@ -1,0 +1,16 @@
+{
+  "name": "hubot_script_init",
+  "version": "0.0.0",
+  "description": "Create a hubot script scaffold",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Carl Lange (@csl_)",
+  "license": "BSD",
+  "dependencies": {
+    "coffee-script": "~1.6.3"
+  }
+}
